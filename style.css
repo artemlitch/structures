@@ -1,0 +1,792 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    break-inside: avoid;
+    column-count: 1;
+    height: auto;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    max-height: 100%;
+    max-width: 100%;
+    oeb-column-number: 1;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.calibre3 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre4 {
+    display: list-item
+    }
+.calibre5 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre6 {
+    display: block;
+    width: 99.786233%
+    }
+.calibre7 {
+    display: block;
+    width: 2.96423%
+    }
+.calibre8 {
+    display: block;
+    width: 22.915776%
+    }
+.calibre9 {
+    display: block;
+    width: 12.51247%
+    }
+.calibre10 {
+    display: block;
+    width: 12.797492%
+    }
+.calibre11 {
+    display: block;
+    width: 26.507054%
+    }
+.calibre12 {
+    display: block;
+    width: 26.393045%
+    }
+.calibre13 {
+    display: block;
+    width: 30.668377%
+    }
+.calibre14 {
+    display: block;
+    width: 30.240844%
+    }
+.calibre15 {
+    display: block;
+    width: 28.13168%
+    }
+.calibre16 {
+    display: block;
+    width: 2.935728%
+    }
+.calibre17 {
+    display: block;
+    width: 23.343309%
+    }
+.calibre18 {
+    display: block;
+    width: 20.065555%
+    }
+.calibre19 {
+    display: block;
+    width: 20.265071%
+    }
+.calibre20 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre21 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre22 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.calibre23 {
+    display: block;
+    width: 25.252957%
+    }
+.calibre24 {
+    display: block;
+    width: 5.956962%
+    }
+.calibre25 {
+    display: block;
+    width: 10.175289%
+    }
+.calibre26 {
+    display: block;
+    width: 10.089782%
+    }
+.calibre27 {
+    display: block;
+    width: 12.569474%
+    }
+.calibre28 {
+    display: block;
+    width: 13.738065%
+    }
+.calibre29 {
+    display: block;
+    width: 8.322645%
+    }
+.calibre30 {
+    display: block;
+    width: 30.725381%
+    }
+.calibre31 {
+    display: block;
+    width: 29.528288%
+    }
+.calibre32 {
+    display: block;
+    width: 30.383355%
+    }
+.calibre33 {
+    display: block;
+    width: 4.731367%
+    }
+.calibre34 {
+    display: block;
+    width: 2.650705%
+    }
+.calibre35 {
+    display: block;
+    width: 3.135243%
+    }
+.calibre36 {
+    display: block;
+    width: 12.312954%
+    }
+.calibre37 {
+    display: block;
+    width: 17.272339%
+    }
+.calibre38 {
+    display: block;
+    width: 9.662249%
+    }
+.calibre39 {
+    display: block;
+    width: 15.362691%
+    }
+.calibre40 {
+    display: block;
+    width: 23.086789%
+    }
+.calibre41 {
+    display: block;
+    width: 30.183839%
+    }
+.calibre42 {
+    display: block;
+    width: 30.611372%
+    }
+.calibre43 {
+    display: block;
+    width: 30.953399%
+    }
+.calibre44 {
+    display: block;
+    width: 5.244406%
+    }
+.calibre45 {
+    display: block;
+    width: 30.32635%
+    }
+.calibre46 {
+    display: block;
+    width: 4.303834%
+    }
+.calibre47 {
+    display: block;
+    width: 3.22075%
+    }
+.calibre48 {
+    display: block;
+    width: 30.83939%
+    }
+.calibre49 {
+    display: block;
+    width: 29.328773%
+    }
+.calibre50 {
+    display: block;
+    width: 23.314807%
+    }
+.calibre51 {
+    display: block;
+    width: 29.984324%
+    }
+.calibre52 {
+    display: block;
+    width: 22.545247%
+    }
+.calibre53 {
+    display: block;
+    width: 11.828417%
+    }
+.calibre54 {
+    display: block;
+    width: 13.595554%
+    }
+.calibre55 {
+    display: block;
+    width: 30.126835%
+    }
+.calibre56 {
+    display: block;
+    width: 8.180134%
+    }
+.calibre57 {
+    display: block;
+    width: 30.58287%
+    }
+.calibre58 {
+    display: block;
+    width: 30.554368%
+    }
+.calibre59 {
+    display: block;
+    width: 30.525866%
+    }
+.calibre60 {
+    display: block;
+    width: 10.3178%
+    }
+.calibre61 {
+    display: block;
+    width: 25.053442%
+    }
+.calibre62 {
+    display: block;
+    width: 7.923614%
+    }
+.calibre63 {
+    display: block;
+    width: 23.001283%
+    }
+.calibre64 {
+    display: block;
+    width: 19.524013%
+    }
+.calibre65 {
+    display: block;
+    width: 1.02608%
+    }
+.calibre66 {
+    display: block;
+    width: 27.590138%
+    }
+.calibre67 {
+    display: block;
+    width: 30.696879%
+    }
+.calibre68 {
+    display: block;
+    width: 3.562776%
+    }
+.calibre69 {
+    display: block;
+    width: 3.477269%
+    }
+.calibre70 {
+    display: block;
+    width: 30.354853%
+    }
+.calibre71 {
+    display: block;
+    width: 15.533704%
+    }
+.calibre72 {
+    display: block;
+    width: 13.966082%
+    }
+.calibre73 {
+    display: block;
+    width: 14.165598%
+    }
+.calibre74 {
+    display: block;
+    width: 10.773835%
+    }
+.calibre75 {
+    display: block;
+    width: 10.688328%
+    }
+.calibre76 {
+    display: block;
+    width: 33.889126%
+    }
+.calibre77 {
+    display: block;
+    width: 35.48525%
+    }
+.calibre78 {
+    display: block;
+    width: 38.648995%
+    }
+.calibre79 {
+    display: block;
+    width: 32.064985%
+    }
+.calibre80 {
+    display: block;
+    width: 72.766139%
+    }
+.calibre81 {
+    display: block;
+    width: 30.867892%
+    }
+.calibre82 {
+    display: block;
+    width: 54.45347%
+    }
+.calibre83 {
+    display: block;
+    width: 4.617358%
+    }
+.calibre84 {
+    display: block;
+    width: 4.930882%
+    }
+.calibre85 {
+    display: block;
+    width: 3.591278%
+    }
+.calibre86 {
+    display: block;
+    width: 100%
+    }
+.calibre87 {
+    display: block;
+    width: 48.596266%
+    }
+.calibre88 {
+    display: block;
+    width: 48.938293%
+    }
+.calibre89 {
+    display: block;
+    width: 51.061707%
+    }
+.calibre90 {
+    display: block;
+    width: 4.275331%
+    }
+.calibre91 {
+    display: block;
+    width: 54.268206%
+    }
+.calibre92 {
+    display: block;
+    width: 45.760296%
+    }
+.calibre93 {
+    display: block;
+    width: 70.086932%
+    }
+.calibre94 {
+    display: block;
+    width: 0.712555%
+    }
+.calibre95 {
+    display: block;
+    width: 3.363261%
+    }
+.calibre96 {
+    display: block;
+    width: 16.246259%
+    }
+.calibre97 {
+    display: block;
+    width: 5.101895%
+    }
+.calibre98 {
+    display: block;
+    width: 0.969075%
+    }
+.calibre99 {
+    display: block;
+    width: 38.392475%
+    }
+.calibre100 {
+    display: block;
+    width: 38.335471%
+    }
+.calibre101 {
+    display: block;
+    width: 10.602822%
+    }
+.calibre102 {
+    display: block;
+    width: 16.160752%
+    }
+.calibre103 {
+    display: block;
+    width: 10.745333%
+    }
+.calibre104 {
+    display: block;
+    width: 12.170443%
+    }
+.calibre105 {
+    display: block;
+    width: 9.491236%
+    }
+.calibre106 {
+    display: block;
+    width: 15.676215%
+    }
+.calibre107 {
+    display: block;
+    width: 18.83996%
+    }
+.calibre108 {
+    display: block;
+    width: 30.782386%
+    }
+.calibre109 {
+    display: block;
+    width: 26.735072%
+    }
+.calibre110 {
+    display: block;
+    width: 13.396038%
+    }
+.calibre111 {
+    display: block;
+    width: 30.297848%
+    }
+.calibre112 {
+    display: block;
+    width: 30.497364%
+    }
+.calibre113 {
+    display: block;
+    width: 15.87573%
+    }
+.calibre114 {
+    display: block;
+    width: 9.633747%
+    }
+.calibre115 {
+    display: block;
+    width: 29.072253%
+    }
+.calibre116 {
+    display: block;
+    width: 17.471854%
+    }
+.calibre117 {
+    display: block;
+    width: 30.411857%
+    }
+.calibre118 {
+    display: block;
+    width: 29.927319%
+    }
+.calibre119 {
+    display: block;
+    width: 25.081944%
+    }
+.calibre120 {
+    display: block;
+    width: 29.499786%
+    }
+.calibre121 {
+    display: block;
+    width: 30.639875%
+    }
+.calibre122 {
+    display: block;
+    width: 20.52159%
+    }
+.calibre123 {
+    display: block;
+    width: 23.599829%
+    }
+.calibre124 {
+    display: block;
+    width: 26.051019%
+    }
+.calibre125 {
+    display: block;
+    width: 30.753883%
+    }
+.calibre126 {
+    display: block;
+    width: 16.90181%
+    }
+.calibre127 {
+    display: block;
+    width: 30.155337%
+    }
+.calibre128 {
+    display: block;
+    width: 24.283882%
+    }
+.calibre129 {
+    display: block;
+    width: 30.468861%
+    }
+.calibre130 {
+    display: block;
+    width: 10.887844%
+    }
+.calibre131 {
+    display: block;
+    width: 11.058857%
+    }
+.calibre132 {
+    display: block;
+    width: 14.365113%
+    }
+.calibre133 {
+    display: block;
+    width: 11.343879%
+    }
+.calibre134 {
+    display: block;
+    width: 5.358415%
+    }
+.calibre135 {
+    display: block;
+    width: 14.70714%
+    }
+.calibre136 {
+    display: block;
+    width: 28.929742%
+    }
+.calibre137 {
+    display: block;
+    width: 11.99943%
+    }
+.calibre138 {
+    display: block;
+    width: 12.084937%
+    }
+.calibre139 {
+    display: block;
+    width: 11.571897%
+    }
+.calibre140 {
+    display: block;
+    width: 9.833262%
+    }
+.calibre141 {
+    display: block;
+    width: 10.346302%
+    }
+.calibre142 {
+    display: block;
+    width: 8.151632%
+    }
+.calibre143 {
+    display: block;
+    width: 23.143794%
+    }
+.calibre144 {
+    display: block;
+    width: 17.813881%
+    }
+.calibre145 {
+    display: block;
+    width: 29.898817%
+    }
+.calibre146 {
+    display: block;
+    width: 29.214764%
+    }
+.calibre147 {
+    display: block;
+    width: 13.225025%
+    }
+.calibre148 {
+    display: block;
+    width: 29.813311%
+    }
+.calibre149 {
+    display: block;
+    width: 6.555508%
+    }
+.calibre150 {
+    display: block;
+    width: 23.656833%
+    }
+.calibre151 {
+    display: block;
+    width: 11.543395%
+    }
+.calibre152 {
+    display: block;
+    width: 7.524583%
+    }
+.calibre153 {
+    display: block;
+    width: 30.440359%
+    }
+.calibre154 {
+    display: block;
+    width: 32.350007%
+    }
+.calibre155 {
+    display: block;
+    width: 31.010403%
+    }
+.calibre156 {
+    display: block;
+    width: 8.237138%
+    }
+.calibre157 {
+    display: block;
+    width: 8.579165%
+    }
+.calibre158 {
+    display: block;
+    width: 26.250534%
+    }
+.calibre159 {
+    display: block;
+    width: 31.124412%
+    }
+.calibre160 {
+    display: block;
+    width: 2.736212%
+    }
+.calibre161 {
+    display: block;
+    width: 2.109163%
+    }
+.calibre162 {
+    display: block;
+    width: 15.704717%
+    }
+.calibre163 {
+    display: block;
+    width: 16.018241%
+    }
+.calibre164 {
+    display: block;
+    width: 11.372381%
+    }
+.calibre165 {
+    display: block;
+    width: 19.467009%
+    }
+.calibre166 {
+    display: block;
+    width: 13.538549%
+    }
+.calibre167 {
+    display: block;
+    width: 17.699872%
+    }
+.calibre168 {
+    display: block;
+    width: 22.06071%
+    }
+.calibre169 {
+    display: block;
+    width: 46.829129%
+    }
+.calibre170 {
+    display: block;
+    width: 16.873308%
+    }
+.calibre171 {
+    display: block;
+    width: 21.946701%
+    }
+.calibre172 {
+    display: block;
+    width: 16.474277%
+    }
+.calibre173 {
+    display: block;
+    width: 3.819296%
+    }
+.calibre174 {
+    display: block;
+    width: 47.48468%
+    }
+.calibre175 {
+    display: block;
+    width: 2.479692%
+    }
+.center {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.center1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.offset {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+    padding-bottom: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-top: 1.5em
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
